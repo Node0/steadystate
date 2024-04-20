@@ -1,4 +1,4 @@
-# steadystate
+# SteadyState
 Transform numbers into narratives and calculations into insights.
 
 `SteadyState` is a reimagining of what it means to track and understand the dynamics of decay, whether that be medicinal half-lives, the dwindling of celestial bodies, multiple samples of radioactive ore all with different half-lives.
